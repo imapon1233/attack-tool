@@ -1,0 +1,10 @@
+# OSINT CLI tools (Python)
+instagram-scraper
+maigret
+sherlock
+holehe
+phoneinfoga
+
+# Utility
+requests
+colorama
